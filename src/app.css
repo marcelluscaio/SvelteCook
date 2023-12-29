@@ -18,7 +18,7 @@ body {
 	color: var(--cor-texto-principal);
 
 	min-height: 100vh;
-	background: url('/imagens/textura-marmore.png') repeat;
+	background: url('/images/textura-marmore.png') repeat;
 	background-color: var(--cor-fundo-body);
 	background-size: 100%;
 }
