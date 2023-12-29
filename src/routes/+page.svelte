@@ -1,5 +1,12 @@
+<script lang="ts">
+  import '../app.css'
+</script>
+
 <svelte:head>
+  
   <title>Alura Cook</title>
+
+
 </svelte:head>
 
 <h1>Welcome to SvelteKit</h1>

@@ -1,3 +1,5 @@
+https://www.figma.com/file/SQGJwsiwZJh2CjxGMaB8ZS/Alura-Cook?type=design&node-id=74-86&mode=design&t=TREhycujvodlXNwA-0
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
